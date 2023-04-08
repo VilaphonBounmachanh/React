@@ -3,9 +3,9 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiHeroku,
-  SiVercel,
-  SiNetlify
+  // SiHeroku,
+  // SiVercel,
+  // SiNetlify
 } from "react-icons/si";
 
 const Toolstack = () => {
@@ -18,13 +18,13 @@ const Toolstack = () => {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        {/* <SiVercel /> */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNetlify />
+        {/* <SiNetlify /> */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        {/* <SiHeroku /> */}
       </Col>
     </Row>
   );

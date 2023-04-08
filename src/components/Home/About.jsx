@@ -20,11 +20,11 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">Mr.Vilaphon Bounmachanh </span>
+                 and I'm from <span className="yellow"> Laos.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I currently stady at  National University of lao (NOUL)in dongdok with a Bachelor's degree in Computer Science.
                 <br />
                 <br />
                   As a
@@ -32,9 +32,9 @@ const About = () => {
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                    <b className="yellow"> Dart, </b>
+                    as well as have knowledge in programming languages such as C, Java, Python, JavaScript
+                  
                   <br />
                   <br />
                   I have a passion for working
@@ -53,7 +53,7 @@ const About = () => {
                   <br />
                   I am also interested in building new
                   <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
+                    <b className="yellow">Application, Web Technologies and Products, </b>
                     as well as exploring areas related to
                     <b className="yellow"> Artificial Intelligence.</b>
                   </i>
@@ -76,7 +76,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/VilaphonBounmachanh"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/ThemanThemoon"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +98,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="//www.linkedin.com/in/vilaphon-bounmachanh-157929271/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -109,7 +109,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/19sajib"
+                      href="https://www.instagram.com/pn_lazcio_bc/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
